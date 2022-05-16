@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SwitchAndDialogWin</string>
+    <string name="apple">Apple</string>
+    <string name="strawberry">Strawberry</string>
+    <string name="blueberry">Blueberry</string>
+    <string name="potatoes">Potatoes</string>
+    <string name="calc">Calculate</string>
+    <string name="price">Price:</string>
+
+</resources>
